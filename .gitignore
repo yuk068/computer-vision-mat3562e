@@ -1,6 +1,6 @@
 deep_learn_cnn/data/cifar10
 deep_learn_cnn/data/MNIST
-__pycache__/
-*.pyc
-*.pyo
-*.ipynb_checkpoints/
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**.ipynb_checkpoints/
