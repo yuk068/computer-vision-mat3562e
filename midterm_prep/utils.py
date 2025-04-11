@@ -34,7 +34,7 @@ def show_image(img, cmap=None, size=(6, 6)):
     plt.axis('off')
     plt.show()
 
-    def convert_color(img, mode='RGB'):
+def convert_color(img, mode='RGB'):
     mode = mode.upper()
     if mode == 'GRAYSCALE':
         return cv2.cvtColor(img, cv2.COLOR_RGB2GRAY)
