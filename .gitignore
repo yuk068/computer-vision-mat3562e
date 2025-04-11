@@ -1,5 +1,6 @@
 deep_learn_cnn/data/cifar10
 deep_learn_cnn/data/MNIST
+intro_histogram/computer_vision_1.ipynb
 **/__pycache__/
 **/*.pyc
 **/*.pyo
